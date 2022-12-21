@@ -10,7 +10,7 @@ target 'Shopping' do
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
   pod 'Firebase/Database'
-  pod 'Realm'
+ 
   pod 'Firebase/Storage'
   pod 'MessageKit'
   
