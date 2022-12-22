@@ -220,7 +220,7 @@
 				3F3C2A32293F4E74000A1867 /* ViewModel */,
 				3F3C2A31293F4E5E000A1867 /* View */,
 				3F3C2A2F293F4E37000A1867 /* Controllers */,
-				3FEC2336293F391E00AC71A8 /* Shopping */,
+				3FEC2336293F391E00AC71A8 /* ShoppingApp */,
 				3FEC2335293F391E00AC71A8 /* Products */,
 				E97621EEBDC0A16577F06985 /* Pods */,
 				2D701454C76ABCF80D008617 /* Frameworks */,
@@ -235,7 +235,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3FEC2336293F391E00AC71A8 /* Shopping */ = {
+		3FEC2336293F391E00AC71A8 /* ShoppingApp */ = {
 			isa = PBXGroup;
 			children = (
 				3F64C38229433A7500F6FD73 /* GoogleService-Info.plist */,
@@ -245,7 +245,7 @@
 				3FEC2342293F392000AC71A8 /* LaunchScreen.storyboard */,
 				3FEC2345293F392000AC71A8 /* Info.plist */,
 			);
-			path = Shopping;
+			path = ShoppingApp;
 			sourceTree = "<group>";
 		};
 		E97621EEBDC0A16577F06985 /* Pods */ = {
