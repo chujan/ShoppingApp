@@ -9,7 +9,7 @@ import UIKit
 import SDWebImage
 import MessageKit
 import InputBarAccessoryView
-import FirebaseAuth
+//import FirebaseAuth
 struct Message: MessageType {
     public var sender: SenderType
     

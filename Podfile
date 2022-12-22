@@ -7,9 +7,9 @@ target 'ShoppingApp
   use_frameworks!
 
   # Pods for Shopping
-  pod 'SDWebImage'
+
   
-  pod 'MessageKit'
+
   
 
 end
